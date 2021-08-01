@@ -1,4 +1,4 @@
-### Hi there, I'm Andrew [AndrewNguyen][website] 👋
+### Hi there, I'm Andrew [AndrewNguyen] 👋
 
 [![Website](https://img.shields.io/website?label=andrewnguyen.netlify.app&style=for-the-badge&url=https%3A%2F%2Fandrewnguyen.netlify.app)](https://andrewnguyen.netlify.app)
 
