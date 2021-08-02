@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=andrewnguyen.netlify.app&style=for-the-badge&url=https%3A%2F%2Fandrewnguyen.netlify.app)](https://andrewnguyen.netlify.app)
 
-## I'm a Son and Developer!!
+## I'm a Good Son and Developer!!
 
 - 🔭 I just graduated from Seneca College
 - 🌱 I’m young and hungry to work in programming industry 🤣
